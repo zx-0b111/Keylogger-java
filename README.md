@@ -31,7 +31,7 @@ Este projeto tem como objetivo explorar:
 
 -Fluxos de dados (DataInputStream, DataOutputStream, FileInputStream, FileOutputStream).
 
-## O que eu aprendi?
+## O que aprendi:
 
 -Principais descobertas:
 -
