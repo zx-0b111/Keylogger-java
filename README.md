@@ -56,6 +56,18 @@ Este projeto tem como objetivo explorar:
 2: Executando cliente mvn exec:java
 ```
 
+## ⚠️ Aviso Legal
+
+> **Este projeto foi desenvolvido exclusivamente para fins didáticos e acadêmicos.**
+>
+> O uso de técnicas de keylogging em dispositivos de terceiros, sem o devido consentimento, **é ilegal** e pode configurar crime conforme legislações locais e internacionais de privacidade e segurança da informação.
+>
+> **NÃO utilize este código em ambientes fora do controle de estudo**, como computadores públicos, de outras pessoas, ou redes corporativas sem autorização expressa.
+>
+> O autor deste projeto **não se responsabiliza** pelo uso indevido do código aqui contido.
+
+---
+
 
 ## Autores
 
