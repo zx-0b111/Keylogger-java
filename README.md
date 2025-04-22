@@ -53,7 +53,7 @@ Este projeto tem como objetivo explorar:
 
 ```sh
 1: Executando servidor: java Servidor.java
-2: Executando cliente mvn exec:java
+2: Executando cliente: mvn exec:java
 ```
 
 ## ⚠️ Aviso Legal
