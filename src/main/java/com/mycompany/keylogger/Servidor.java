@@ -39,9 +39,6 @@ public class Servidor {
             tamanho-= bytes;
         }
         ler_arquivo.close();
-        ler.close();
-        escreve_arquivo.close();
-        server.close();
         System.out.println("arquivo recebido com sucesso");
       
         
